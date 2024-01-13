@@ -31,7 +31,7 @@ var swiper = new Swiper(".home-slider", {
     effect: "coverflow",
     grabCursor: true,
     centeredSlides: true,
-    slidesPerView: "auto",
+    slidesPerView: 'auto',
     coverflowEffect: {
       rotate: 0,
       stretch: 0,
@@ -39,6 +39,7 @@ var swiper = new Swiper(".home-slider", {
       modifier: 5,
       slideShadows: true,
     },
+    smoothscroll:true,
     loop:true,
     autoplay:{
         // delay: 3000,
@@ -66,6 +67,7 @@ var swiper = new Swiper(".review-slider", {
         disableOnInteraction:false,
     }
   });
+
 
 
   
