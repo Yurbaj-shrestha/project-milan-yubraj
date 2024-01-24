@@ -1,3 +1,4 @@
+// This code snippet creates a webpage with header, navigation bar, and contact information. It also includes custom CSS for the admin page to display events in an HTML document that displays messages on different browsers using SWIper's UI frameworks as well as JavaScript
 <!DOCTYPE html>
 <html lang="en">
 
