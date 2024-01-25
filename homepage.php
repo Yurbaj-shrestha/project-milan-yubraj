@@ -337,9 +337,10 @@
 
         <h1 class="heading">client's <span>review</span></h1>
 
-        <div class="review-slider swiper-container">
+        <div class="review-slider swiper-container"  style="width: 50vw; height:50vh ">
 
             <div class="swiper-wrapper">
+        
                 <div class="swiper-slide box">
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
@@ -354,7 +355,7 @@
                         game. Kudos to the team for creating such a stellar platform!"</p>
                 </div>
 
-                <div class="swiper-slide box">
+               <div class="swiper-slide box" >
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
                         <img src="Images/person2.jpg" alt="">
@@ -397,7 +398,7 @@
                         elevated the entire event experience.</p>
                 </div>
 
-                <div class="swiper-slide box">
+               <div class="swiper-slide box" >
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
                         <img src="Images/person5.jpg" alt="">
@@ -426,7 +427,7 @@
                         arrangements.</p>
                 </div>
 
-                <div class="swiper-slide box">
+                <div class="swiper-slide box" >
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
                         <img src="Images/person7.jpg" alt="">
